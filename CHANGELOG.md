@@ -4,6 +4,18 @@
 
 [1]: https://www.npmjs.com/package/@google-cloud/firestore?activeTab=versions
 
+## [5.1.0](https://github.com/googleapis/nodejs-firestore/compare/v5.0.2...v5.1.0) (2022-02-07)
+
+
+### Features
+
+* update client libraries to support Database operations ([#1676](https://github.com/googleapis/nodejs-firestore/issues/1676)) ([533aade](https://github.com/googleapis/nodejs-firestore/commit/533aade3272f07b39bbad2c32a5d9669fde6de53))
+
+
+### Bug Fixes
+
+* split v1 and v1beta1 protos to improve startup time ([#1664](https://github.com/googleapis/nodejs-firestore/issues/1664)) ([f3729cf](https://github.com/googleapis/nodejs-firestore/commit/f3729cf49818b9b929a556e7a8e8a5588b5f2726))
+
 ### [5.0.2](https://www.github.com/googleapis/nodejs-firestore/compare/v5.0.1...v5.0.2) (2022-01-07)
 
 
